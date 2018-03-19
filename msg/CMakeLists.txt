@@ -126,6 +126,7 @@ set(msg_files
 	vehicle_status_flags.msg
 	vtol_vehicle_status.msg
 	wind_estimate.msg
+	tdp4_sensors.msg
 	)
 
 if(NOT EXTERNAL_MODULES_LOCATION STREQUAL "")
